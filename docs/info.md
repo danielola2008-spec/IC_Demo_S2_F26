@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project implements a two-input AND gate using Wokwi and Tiny Tapeout
 
 ## How to test
 
-Explain how to use your project
-
+Run the simulation in Wokwi. Set switches 1 and 2 to ON to turn on the LED. If either switch is off, LED stays OFF. 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware is required. An LED is used in the Wokwi simulation to display the output
